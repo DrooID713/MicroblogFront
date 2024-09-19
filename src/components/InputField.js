@@ -1,4 +1,4 @@
-import { Form } from "react-bootstrap/lib/Navbar";
+import Form from "react-bootstrap/Form";
 
 export default function InputField({
   name,

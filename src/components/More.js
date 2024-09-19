@@ -1,4 +1,4 @@
-import { Button } from "react-bootstrap/lib/InputGroup";
+import Button from "react-bootstrap/Button";
 
 export default function More({ pagination, loadNextPage }) {
   let thereAreMore = false;
